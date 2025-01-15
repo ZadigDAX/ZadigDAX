@@ -1,4 +1,4 @@
-# Welcome to the landing zone, I'm Michael
+#MG Landing
 <a href="https://linkedin.com/in/michaelgibli/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m diving into cybersecurity because it combines challenge, stability, and purpose in a way that excites me. With a background in the arts and sustainability, I’ve always enjoyed creative problem-solving, and through self-taught programming and certifications, I’ve found a field where I can make a real impact.

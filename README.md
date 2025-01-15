@@ -4,7 +4,7 @@
 I’m diving into cybersecurity because it combines challenge, stability, and purpose in a way that excites me. With a background in the arts and sustainability, I’ve always enjoyed creative problem-solving, and through self-taught programming and certifications, I’ve found a field where I can make a real impact.
 
 ## Objective
-s
+
 My interest in information and network security, coupled with a commitment to protecting individuals, has inspired me to pursue a career in cybersecurity. I am now eager to transition into this field, specifically aiming to join a Network Operations Center (NOC) as a Tier 1 Analyst.
 
 ## Skills
@@ -19,8 +19,18 @@ My interest in information and network security, coupled with a commitment to pr
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+<div>
+<img src="https://img.shields.io/badge/-UTM-FF4500?&style=for-the-badge&logo=UTM&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-003366?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Aircrack--ng-FF0000?&style=for-the-badge&logo=Aircrack-ng&logoColor=white" />
+<img src="https://img.shields.io/badge/-Reaver-800000?&style=for-the-badge&logo=Reaver&logoColor=white" />
+<img src="https://img.shields.io/badge/-tcpdump-556B2F?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Compute%20Engine-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+<div>
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
